@@ -1,2 +1,2 @@
 # Cypress-typescript-hero
-cypress and typescritp zero to hero
+cypress and typescritp from zero to hero repository
